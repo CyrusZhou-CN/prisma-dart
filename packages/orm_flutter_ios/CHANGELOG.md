@@ -1,3 +1,11 @@
+## v0.0.4
+
+* Support Swift Package Manager
+
+## v0.0.3
+
+* Upgrade Prisma CABI engine to `v6.0.0`.
+
 ## v0.0.2
 
 2024-11-03
