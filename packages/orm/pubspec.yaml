@@ -4,7 +4,7 @@ homepage: https://prisma.pub
 repository: https://github.com/medz/prisma-dart
 
 resolution: workspace
-version: 5.3.3
+version: 5.3.4
 
 funding:
   - https://github.com/sponsors/medz
@@ -23,9 +23,9 @@ executables:
 
 dependencies:
   code_builder: ^4.10.0
-  dart_style: ^2.3.7 # TODO: await ffigen update the dep
+  dart_style: ^3.1.0
   decimal: ^3.1.0
-  json_rpc_2: ^3.0.2
+  json_rpc_2: ^4.0.0
   path: ^1.9.0
   rc: ^0.3.3
   recase: ^4.1.0
@@ -33,5 +33,5 @@ dependencies:
   webfetch: ^0.1.0
 
 dev_dependencies:
-  lints: ^5.0.0
+  lints: ^6.0.0
   test: ^1.24.8

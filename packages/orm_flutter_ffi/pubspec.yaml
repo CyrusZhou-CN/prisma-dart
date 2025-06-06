@@ -4,7 +4,7 @@ homepage: https://prisma.pub
 repository: https://github.com/medz/prisma-dart
 
 resolution: workspace
-version: 0.0.2
+version: 0.0.3
 
 funding:
   - https://github.com/sponsors/medz
@@ -25,8 +25,8 @@ dependencies:
   path: ^1.9.0
 
 dev_dependencies:
-  flutter_lints: ^5.0.0
-  ffigen: ^16.0.0
+  flutter_lints: ^6.0.0
+  ffigen: ^19.0.0
 
 ffigen:
   name: QueryEngineBindings
